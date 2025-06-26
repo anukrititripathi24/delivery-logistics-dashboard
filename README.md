@@ -70,4 +70,4 @@ A detailed overview is available in /docs/project_summary.pdf
 
 🙋‍♂️ Author
 
-[Your Name]Data Analyst | SQL | Power BI | Excel
+Anukriti Data Analyst | SQL | Power BI | Excel
